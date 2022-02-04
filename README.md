@@ -18,4 +18,5 @@
 
 
 ## iOS 개발 기술 공유  
-🚀 fastlane을 사용해 배포 자동화하기 [바로가기](https://github.com/nativeTI/Dev-Conference/blob/main/iOS_Dev/CI_CD/fastlane.md)
+🚀 fastlane을 사용해 배포 자동화하기 1 [바로가기](https://github.com/nativeTI/Dev-Conference/blob/main/iOS_Dev/CI_CD/fastlane.md)
+🚀 fastlane을 사용해 배포 자동화하기 2 [바로가기](url)

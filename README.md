@@ -8,3 +8,9 @@
 - 은행채널셀 전동명
 - 은행채널셀 최수연
 - 은행채널셀 홍주연
+
+
+## WWDC 2021
+👉 https://docs.google.com/document/d/1Haxn1EhAtCpsOfd5VmQx-Qg3wLDNkddzaj5pjqmydsE/edit?usp=sharing 
+
+## Goole I/O 2021

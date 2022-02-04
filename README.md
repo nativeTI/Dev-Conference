@@ -15,3 +15,7 @@
 
 ## Goole I/O 2021
 👉 https://drive.google.com/file/d/1dsr_RIMrZ__HNmtD2lrBrKbVU_WyKYIF/view?usp=sharing
+
+
+## iOS 개발 기술 공유  
+🚀 fastlane을 사용해 배포 자동화하기 [바로가기](https://github.com/nativeTI/Dev-Conference/blob/main/iOS_Dev/CI_CD/fastlane.md)

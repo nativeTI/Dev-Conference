@@ -32,3 +32,16 @@ let name = sortedNames[0]
 let photo = await downloadPhoto(named: name)
 show(photo)
 ```
+### 특징
+1) async 선언 시, 함수를 비동기 함수로 만듦
+2) 프로토콜에서도 사용 가능
+3) async와 throw를 같이 쓸 수 있다 (단, async 키워드가 throws 키워드보다 먼저 선언되어야 함)
+4)  비동기 함수가 에러를 낼 수 있다면 await에 try를 함께 써줘야한다
+5) await 키워드는 비동기 메소드가 일시 중단(suspend) 될 수 있는 지점을 나타냄
+
+-> 성공, 실패 여부 상관 없이 최종 결과가 준비되었을 때, 그 후에야 함수가 재개(resume)됨  
+-> 비동기 함수는 일시 중지된 동안, 리소스를 사용하지 않음 (스레드 차단 x)  
+-> Swift runtime은 함수가 다른 작업을 위해 실행중인 스레드를 재사용할 수 있음  
+-> 많은 비동기 프로세스 간에 매우 적은 스레드를 공유할 수 있음  
+
+

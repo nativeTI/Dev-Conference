@@ -29,8 +29,7 @@ desc "Push a new beta build to TestFlight"
       include_bitcode: false,
       export_method: "app-store"
     )
-	
-	  upload_TestFlight
+    upload_TestFlight
   end
   
   lane :upload_TestFlight do
